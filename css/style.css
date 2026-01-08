@@ -189,7 +189,6 @@ nav.bootsnav .megamenu-content .title{
 }
 
 p{
-	font-family: 'Roboto', sans-serif;
 	font-size:1em;
 }
 
@@ -1606,7 +1605,7 @@ body.pushmenu-push-toright .wrap-sticky nav.navbar.bootsnav.sticked{
 
 
 /* ----- ABout US ----- */
-.icon_wrap{ border-bottom:1px solid #cfcfcf;}
+.icon_wrap{}
 .icon_box{
 	padding-top:20px;
 	padding-bottom:20px;
@@ -1768,14 +1767,14 @@ body.pushmenu-push-toright .wrap-sticky nav.navbar.bootsnav.sticked{
 
 /* ----- Paralax  ----- */
 #parallax{
-	background:url(../images/s3.jpeg) no-repeat;
+	background:url(../images/last.png) no-repeat;
 	padding:10% 0;
 }
 #courses{
 	background:url(../images/s3.jpeg) no-repeat;
 }
 .page_header{
-	background:url(../images/about1.jpeg) no-repeat;
+	background:url(../images/last.png) no-repeat;
 }
 #counter{
 	background:url(../images/s3.jpeg) no-repeat;
@@ -1784,7 +1783,6 @@ body.pushmenu-push-toright .wrap-sticky nav.navbar.bootsnav.sticked{
 	background-size:cover;
 	width:100%;
 	height: 300px;
-	background-attachment:fixed;
 	background-position:center center;
 }
 #parallax, #courses, #courses p, #counter, #counter p{
